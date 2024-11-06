@@ -1,9 +1,9 @@
 # Drum-Kit
 # Overview :
--Drum Kit is an interactive web application that allows users to play a variety of drum sounds using their keyboard or mouse.<br>
--This drum kit includes classic drum sounds such as Snare, Toms, Kick-Bass, and Crash. <br>
--Each sound is triggered by specific keys on the keyboard (w, a, s, d, j, k, l) or by clicking the corresponding drum pads.<br>
--Built using HTML, CSS, and JavaScript, this project offers an intuitive and fun way to explore rhythm and beats, all within your browser.<br>
+- Drum Kit is an interactive web application that allows users to play a variety of drum sounds using their keyboard or mouse.<br>
+- This drum kit includes classic drum sounds such as Snare, Toms, Kick-Bass, and Crash. <br>
+- Each sound is triggered by specific keys on the keyboard (w, a, s, d, j, k, l) or by clicking the corresponding drum pads.<br>
+- Built using HTML, CSS, and JavaScript, this project offers an intuitive and fun way to explore rhythm and beats, all within your browser.<br>
 
 # Features :
 **1. Keyboard Support :** Press the corresponding keys (w, a, s, d, j, k, l) on your keyboard to trigger different drum sounds.<br>
